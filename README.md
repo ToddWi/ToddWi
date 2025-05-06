@@ -18,111 +18,89 @@
 <div>
 🎓 Courses Taken
 
-| Course Title                                     | Grade       |
-| ------------------------------------------------ | ----------- |
-| Smart Factory Application Programming            | A+          |
-| Smart Factory Convergence Technology Seminar     | A+          |
-| Applications of Deep Learning Technology         | A           |
-| Advanced Data Analytics                          | A           |
-| Smart Factory Capstone Design                    | A+          |
-| Advanced Topics in Smart Factory Convergence     | A+          |
-| Introduction to Computer Vision *(Prerequisite)* | P           |
-| Thesis Writing and Research Ethics               | P           |
-| Smart Factory Capstone Design II                 | A+          |
-| Mathmatics for Machinelearning                   | B+          |
-| Introduction to Data Structures *(Prerequisite)* | P           |
+| Course Title                                     | Description                                                                    |
+| ------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Smart Factory Application Programming            | Developed automation software using Python and IoT for smart manufacturing.    |
+| Smart Factory Convergence Technology Seminar     | Explored interdisciplinary trends and technologies in smart factories.         |
+| Applications of Deep Learning Technology         | Applied CNNs and RNNs to solve real-world classification and prediction tasks. |
+| Advanced Data Analytics                          | Analyzed large-scale industrial data using statistical and ML techniques.      |
+| Smart Factory Capstone Design                    | Led a hands-on project integrating smart factory components and AI models.     |
+| Advanced Topics in Smart Factory Convergence     | Studied advanced integration methods of CPS, AI, and IoT in manufacturing.     |
+| Introduction to Computer Vision *(Prerequisite)* | Learned foundational techniques in image processing and object detection.      |
+| Thesis Writing and Research Ethics               | Trained in academic writing, citation, and ethical research conduct.           |
+| Smart Factory Capstone Design II                 | Continued applied project focusing on LLM-based multimodal segmentation.       |
+| Mathmatics for Machinelearning                   | Covered linear algebra, calculus, and probability for ML applications.         |
+| Introduction to Data Structures *(Prerequisite)* | Explored core data structures such as arrays, lists, trees, and graphs.        |
 
 </div>
-  
- 💼 Experience & Projects
-📌 [Capstone Design] Text-Image Multimodal LLM for Logistics Segmentation
-주관: 교육부 / 한국연구재단
-기간: Sep 2024 – Dec 2024
 
-LISA 모델 기반의 멀티모달 LLM을 활용하여 텍스트-이미지 분류 문제 해결
+<div>
+ 📄 Research Seminar
 
-암시적 프롬프트를 이해할 수 있도록 400개 이상의 데이터셋 구축
+|Human Pose Estimation with Two-Stream Residual Steps Network|
+Published in: IEEE · Oct 2022
+Date: 22 Aug 2023
 
-실제 물류 프로세스에 적용 가능한 프레임워크 제안
+Background variables like scene and camera angle in images/videos hinder accurate human pose estimation. This paper proposes a novel architecture combining RGB and MSR image features, improving HPE performance over conventional methods.
 
-특허 출원 1건, 소프트웨어 등록 1건, 국제 컨퍼런스 논문 제출 1건
+|Automatic Defect Detection in Web Offset Printing via Machine Vision|
+Published in: MDPI · Sep 2019
+Date: 30 Oct 2023
 
-🧠 ICT Challenge 2024
-주관: 과학기술정보통신부 / 대학정보통신연구센터협의회
-기간: Aug 2024
+Traditional printing defect detection heavily relies on human inspection, leading to inconsistency. This study introduces an image projection-based algorithm that accelerates defect localization by converting 2D searches into 1D feature matching.
 
-과제: 딥러닝 기반 시계열 이상탐지 및 예지보전 시스템 구축
+|DeepLumina: Color Texture Classification using Deep Features and Luminance|
+Published in: MDPI · Apr 2022
+Date: 1 Dec 2023
 
-🧪 ICT 명품인재 창의자율과제
-주관: 과학기술정보통신부 / 대학정보통신연구센터협의회
-기간: Jun 2024 – Aug 2024
+Human visual perception is sensitive to luminance. By incorporating YIQ luminance into deep backbone networks, this framework achieves superior texture color classification performance, integrating feature extraction and SVM classification.
 
-과제: 딥러닝 기반 시계열 이상탐지 및 예지보전 시스템 구축
+|One-Shot Recognition of Steel Surface Defects|
+Published in: Elsevier · May 2020
+Date: 23 Feb 2024
 
-🧏‍♂️ AI 배리어프리 키오스크 기술 개발
-주관: 중소벤처기업부 / 경기도경제과학진흥원
-기간: Jul 2024 – Aug 2024
+One-shot learning is an effective approach when annotation is costly. This research shows that a Siamese network can recognize manufacturing defects on steel surfaces with high precision, using minimal training data.
 
-디지털 취약계층을 위한 멀티모달 서비스 제공 기술 개발 (음성, 문자, 수어 등)
+|Skin Lesion Segmentation via Attention DeepLabv3+|
+Published in: Springer · Jan 2021
+Date: 12 Jul 2024
 
-🏭 [Capstone Design] Steel Manufacturing Defect/Object Detection
-주관: 교육부 / 한국연구재단
-기간: Mar 2024 – Jun 2024
+Segmenting skin lesions of various shapes and sizes is complex. This paper enhances DeepLabv3+ by introducing a multi-level attention mechanism to capture multi-scale features and improve segmentation accuracy.
 
-ResNet, Faster R-CNN 기반 철강 제품 결함 탐지
+|FS-MedSAM2: Few-Shot Medical Segmentation without Fine-Tuning|
+Published in: arXiv · Sep 2024
+Date: 4 Oct 2024
 
-실시간 데모 구현 및 방법에 대한 특허 출원
+FS-MedSAM2 utilizes the pre-trained SAM2 model for few-shot medical image segmentation without additional fine-tuning, leveraging its memory attention and prompt-based capabilities for accurate mask generation.
 
-💽 반도체 웨이퍼 고속 검사시스템
-주관: 중소벤처기업부 / 경기도경제과학진흥원
-기간: Jun 2024
+|LISA: Reasoning Segmentation via Large Language Model|
+Published in: arXiv · Sep 2024
+Date: 28 Oct 2024
 
-레이저 광학계 기반 웨이퍼 결함 AI 검사 시스템 개발
+This paper introduces Reasoning Segmentation, extending referring segmentation by enabling models to comprehend implicit prompts. LISA combines LLaVA and a visual backbone to interpret abstract textual cues and generate precise segmentation masks.
 
-🏗 산업특화형 On-Premise 자율제조 플랫폼
-주관: 과학기술정보통신부 / 정보통신연구센터협의회
-기간: Apr 2024
+|Improved Baselines with Visual Instruction Tuning|
+published in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) . Jun 2024
+Date: 09 Jan 2025
 
-On-premise AI 기반 자율 제조 기술 연구
+Paper Presents the first controlled study on LMM design using LLaVA. With minimal modifications and only 1.2M public samples, the model achieves SOTA on 11 benchmarks and trains in 1 day on 8 A100s.
 
-🚍 AI 기반 실시간 모빌리티 경로 탐색
-주관: 산업통상자원부 / 한국산업기술진흥협회
-기간: Apr 2024
+|Eyes wide shut exploring the visual shortcomings of multimodal llms|
+published in:Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition . Sep 2024
+Date: 30 Jan 2025
 
-MaaS 플랫폼 개발을 위한 AI 기반 최적경로 탐색 기술 연구
+Reveals limitations in CLIP-based visual understanding within MLLMs. Proposes the MMVP benchmark using “CLIP-blind pairs” and introduces a Mixture of Features approach to enhance visual grounding by integrating self-supervised vision features.
 
-🧑‍🦽 비접촉식 교통요금 결제 기술 개발
-주관: 중소벤처기업부 / 중소기업기술정보진흥원
-기간: Mar 2024
+|PSALM: Pixelwise SegmentAtion with Large Multi-modal Model|
+published in:In European Conference on Computer Vision . Oct 2024
+Date: 26 Mar 2025
 
-휠체어 이용자를 위한 얼굴인식 및 위치기반 기술 융합
+PSALM Extends LMMs to segmentation by adding a mask decoder and task-aware input schema. Supports joint training across tasks and achieves SOTA on multiple benchmarks, while enabling zero-shot segmentation on unseen tasks like open-vocabulary and video segmentation.
 
-🧬 연구인력 현장맞춤형 양성지원사업
-주관: 중소벤처기업부 / 중소기업기술정보진흥원
-기간: Jan 2024 – Feb 2024
+|GLaMM: Pixel Grounding Large Multimodal Model|
+published in:Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern . 2024
+Date: 03 Apr 2025
 
-R&D 인력 혁신센터 운영 지원
-
-🧠 중견연구사업
-주관: 과학기술정보통신부 / 한국연구재단
-기간: Oct 2023 – Jan 2024
-
-멀티모달 연합학습 및 제조 AI 플랫폼 연구개발
-
-💘 소개팅 웹 서비스 '취밋' 개발
-주관: 아이티윌
-기간: Apr 2023 – Jun 2023
-
-Java/SpringBoot 기반, 취미 매칭 소개팅 플랫폼 개발
-
-시큐리티, 매칭 알고리즘, 관리자 메뉴 등 주요 기능 구현
-
-🍶 전통주 경매 웹 서비스 개발
-주관: 아이티윌
-기간: Mar 2023 – Apr 2023
-
-Spring Legacy 기반 전통주 경매 서비스 구축
-
-상품 등록, 결제 시스템, 게시판 개발
-
+Proposes GLaMM, the first LMM to generate natural language responses with aligned segmentation masks. Accepts both text and visual prompts, enabling fine-grained multimodal interaction. Introduces the GranD datasetand defines a new task: Grounded Conversation Generation.
+</div>
 
