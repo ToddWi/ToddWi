@@ -137,15 +137,15 @@ Proposes GLaMM, an LMM that generates text with aligned segmentation masks. Intr
 ---
 
 📫 Contact
-💡 Always open to new opportunities and collaborations!
+💡 Always open to new opportunities, Thank you!
 
-📧 Email: zcx2468@gmail.com, jmj9613@g.skku.edu
+📧 Email: dnlxodnr100@gmail.com
 
 📍 Location: South Korea 🇰🇷
 
 🔗 Links:
 [Google Scholar]([https://scholar.google.com/citations?user=your_id](https://scholar.google.com/citations?user=utUoqUEAAAAJ&hl=ko)) ・ 
-[GitHub](https://github.com/taewookwi)
+[GitHub]([https://github.com/taewookwi](https://github.com/ToddWi/ToddWi))
 
 
 
