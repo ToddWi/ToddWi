@@ -6,7 +6,37 @@
 - 🙋‍♂️ I am **Taewook Wi** from **South Korea**  
 - 🎓 Master of **Smart Factory Convergence**, **Sungkyunkwan University (SKKU)**
 
+### 🔬 Research Interests
+
+- Steel Surface Defect Detection  
+- Computer Vision & Deep Learning  
+- Multimodal Language-vision model 
+- Prompt Engineering
+- Industrial AI Applications
+
 ---
+
+## 🏆 Publications & Patents
+
+### Patents
+🔧 Enhanced Defect Classification in Steel Manufacturing
+Leveraging an improved Faster R-CNN architecture combined with weakly supervised learning to strengthen defect labeling in steel production workflows.
+
+📦 Multimodal LLM for Text-Image Segmentation in Logistics Systems
+Utilizing multimodal large language models to perform segmentation in logistics scenarios based on textual prompts, including an outline of operational mechanisms and model behavior.
+
+### Journal Articles
+🔹 D2-SPDM: Faster R-CNN-based Defect Detection and Surface Pixel Defect Mapper with Labeling Enhancement in Steel Manufacturing Processes  
+Authors: Wi, Yang, Jeong  
+Published in: MDPI, Applied Sciences, Vol. 7, 2024  
+🔗 DOI: [https://doi.org/10.48550/arXiv.2308.00692](https://doi.org/10.3390/app14219836)  
+Proposes an enhanced defect detection framework using Faster R-CNN for classification and a pixel-level defect mapping module. Incorporates weakly supervised labeling techniques to improve annotation efficiency in steel manufacturing.
+
+🛠️ Technical Skills
+'Python'   'Java'   'Javascript'   'Spring Boot'   'Tomcat'
+'HTML'   'CSS'   'Machine Learning'   'Deep Learning'
+
+
 
 ## 🎓 Courses Taken
 
