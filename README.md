@@ -30,79 +30,79 @@
 
 ### 🔹 **Research on Human Pose Estimation Algorithm Based on Two-Stream Residual Steps Network**  
 📚 *IEEE* · 🗓 22 Aug 2023 (Published: Oct 2022)  
-🔗 DOI: 10.1109/IAEAC54830.2022.9929746 
+🔗 DOI: 10.1109/IAEAC54830.2022.9929746  
 Combines RGB and MSR features to improve pose estimation by addressing visual variability.
 
 ---
 
 ### 🔹 **Automatic Defect Detection for Web Offset Printing Based on Machine Vision**  
 📚 *MDPI* · 🗓 30 Oct 2023 (Published: Sep 2019)  
-🔗 DOI:https://doi.org/10.3390/app9173598
+🔗 DOI:https://doi.org/10.3390/app9173598  
 Introduces image projection for converting 2D defect search into 1D feature matching.
 
 ---
 
 ### 🔹 **DeepLumina A Method Based on Deep Feature and Luminance Information for Color Texture Classification**  
 📚 *MDPI* · 🗓 1 Dec 2023 (Published: Apr 2022)  
-🔗 DOI: https://doi.org/10.1155/2022/9510987
+🔗 DOI: https://doi.org/10.1155/2022/9510987  
 Uses YIQ luminance and deep features with SVM to enhance human-aligned texture recognition.
 
 ---
 
 ### 🔹 **One-Shot Recognition of Manufacturing Defects in Steel Surfaces**  
 📚 *Elsevier* · 🗓 23 Feb 2024 (Published: May 2020)  
-🔗 DOI:  https://doi.org/10.1016/j.promfg.2020.05.146 
+🔗 DOI:  https://doi.org/10.1016/j.promfg.2020.05.146  
 Applies Siamese networks for defect detection with minimal annotation via one-shot learning.
 
 ---
 
 ### 🔹 **Attention DeepLabv3+: Multi-level Context Attention for Skin Lesion Segmentation**  
 📚 *Springer* · 🗓 12 Jul 2024 (Published: Jan 2021)  
-🔗 DOI: https://doi.org/10.1007/978-3-030-66415-2_16 
+🔗 DOI: https://doi.org/10.1007/978-3-030-66415-2_16  
 Enhances segmentation with attention modules for better multi-scale skin lesion analysis.
 
 ---
 
 ### 🔹 **FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning**  
 📚 *arXiv* · 🗓 4 Oct 2024 (Preprint: Sep 2024)  
-🔗 DOI: https://doi.org/10.48550/arXiv.2409.04298
+🔗 DOI: https://doi.org/10.48550/arXiv.2409.04298  
 Utilizes SAM2’s attention and prompt mechanisms for efficient few-shot medical segmentation.
 
 ---
 
 ### 🔹 **LISA: Reasoning Segmentation via Large Language Model**  
 📚 *arXiv* · 🗓 28 Oct 2024 (Preprint: Sep 2024)  
-🔗 DOI: https://doi.org/10.48550/arXiv.2308.00692
+🔗 DOI: https://doi.org/10.48550/arXiv.2308.00692  
 Introduces reasoning segmentation via LLaVA + vision backbone to understand implicit prompts.
 
 ---
 
 ### 🔹 **Improved Baselines with Visual Instruction Tuning**  
 📚 *CVPR* · 🗓 09 Jan 2025 (Conference: Jun 2024)  
-🔗 DOI: 10.1109/CVPR52733.2024.02484
+🔗 DOI: 10.1109/CVPR52733.2024.02484  
 Achieves SOTA on 11 benchmarks using 1.2M data and 1-day training via minimal LLaVA changes.
 
 ---
 
 ### 🔹 **Eyes Wide Shut: Visual Shortcomings of Multimodal LLMs**  
 📚 *CVPR* · 🗓 30 Jan 2025 (Conference: Sep 2024)  
-🔗 DOI: 10.1109/CVPR52733.2024.00914
+🔗 DOI: 10.1109/CVPR52733.2024.00914  
 Proposes MMVP benchmark and MoF strategy to address CLIP-based model grounding issues.
 
 ---
 
 ### 🔹 **PSALM: Pixelwise Segmentation with Large Multimodal Models**  
 📚 *ECCV* · 🗓 26 Mar 2025 (Conference: Oct 2024)  
-🔗 DOI: https://doi.org/10.1007/978-3-031-72754-2_5 
-📺 YouTube Presentation: https://www.youtube.com/watch?v=p2_Y13RfK98
+🔗 DOI: https://doi.org/10.1007/978-3-031-72754-2_5   
+📺 YouTube Presentation: https://www.youtube.com/watch?v=p2_Y13RfK98  
 Introduces flexible segmentation via mask decoder and multi-task schema in LMMs.
 
 ---
 
 ### 🔹 **GLaMM: Pixel Grounding Large Multimodal Model** 
-📚 *CVPR* · 🗓 03 Apr 2025 (Conference: 2024) 
-🔗 DOI: https://doi.org/10.48550/arXiv.2311.03356
-📺 YouTube Presentation: https://www.youtube.com/watch?v=WuEUi-2TXDU
+📚 *CVPR* · 🗓 03 Apr 2025 (Conference: 2024)  
+🔗 DOI: https://doi.org/10.48550/arXiv.2311.03356  
+📺 YouTube Presentation: https://www.youtube.com/watch?v=WuEUi-2TXDU  
 Proposes GLaMM, an LMM that generates text with aligned segmentation masks. Introduces the GranD dataset and defines the GCG task for multimodal grounding.
 
 ---
