@@ -32,10 +32,9 @@ Published in: MDPI, Applied Sciences, Vol. 7, 2024
 🔗 DOI: [https://doi.org/10.48550/arXiv.2308.00692](https://doi.org/10.3390/app14219836)  
 Proposes an enhanced defect detection framework using Faster R-CNN for classification and a pixel-level defect mapping module. Incorporates weakly supervised labeling techniques to improve annotation efficiency in steel manufacturing.
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 'Python'   'Java'   'Javascript'   'Spring Boot'   'Tomcat'
 'HTML'   'CSS'   'Machine Learning'   'Deep Learning'
-
 
 
 ## 🎓 Courses Taken
