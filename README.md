@@ -13,6 +13,26 @@
   #### :mortar_board: master of Smart factory convergence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
+</div>
+
+<div>
+🎓 Courses Taken
+
+| Course Title                                     | Grade       |
+| ------------------------------------------------ | ----------- |
+| Smart Factory Application Programming            | A+          |
+| Smart Factory Convergence Technology Seminar     | A+          |
+| Applications of Deep Learning Technology         | A           |
+| Advanced Data Analytics                          | A           |
+| Smart Factory Capstone Design                    | A+          |
+| Advanced Topics in Smart Factory Convergence     | A+          |
+| Introduction to Computer Vision *(Prerequisite)* | P           |
+| Thesis Writing and Research Ethics               | P           |
+| Smart Factory Capstone Design II                 | A+          |
+| Mathmatics for Machinelearning                   | B+          |
+| Introduction to Data Structures *(Prerequisite)* | P           |
+
+</div>
   
  💼 Experience & Projects
 📌 [Capstone Design] Text-Image Multimodal LLM for Logistics Segmentation
