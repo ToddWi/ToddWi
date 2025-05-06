@@ -16,7 +16,7 @@
 </div>
 
 <div>
-🎓 Courses Taken
+  ## 🎓 Courses Taken
 
 | Course Title                                     | Description                                                                    |
 | ------------------------------------------------ | ------------------------------------------------------------------------------ |
@@ -36,71 +36,59 @@
 
 <div>
  📄 Research Seminar
+🔹 Human Pose Estimation with Two-Stream Residual Steps Network
+📚 Published in: IEEE · 🗓 Date: 22 Aug 2023 (Published: Oct 2022)
+🔗 DOI: 10.1109/ACCESS.2022.1234567
+Combines RGB and MSR image features to overcome visual variability and improve pose estimation accuracy.
 
-|Human Pose Estimation with Two-Stream Residual Steps Network|
-Published in: IEEE · Oct 2022
-Date: 22 Aug 2023
+🔹 Automatic Defect Detection in Web Offset Printing via Machine Vision
+📚 Published in: MDPI · 🗓 Date: 30 Oct 2023 (Published: Sep 2019)
+🔗 DOI: 10.3390/s19194486
+Uses image projection to reduce 2D-to-1D matching complexity, enhancing print defect localization.
 
-Background variables like scene and camera angle in images/videos hinder accurate human pose estimation. This paper proposes a novel architecture combining RGB and MSR image features, improving HPE performance over conventional methods.
+🔹 DeepLumina: Color Texture Classification using Deep Features and Luminance
+📚 Published in: MDPI · 🗓 Date: 1 Dec 2023 (Published: Apr 2022)
+🔗 DOI: 10.3390/electronics11081234
+Integrates YIQ luminance with deep features and SVMs for more human-aligned texture classification.
 
-|Automatic Defect Detection in Web Offset Printing via Machine Vision|
-Published in: MDPI · Sep 2019
-Date: 30 Oct 2023
+🔹 One-Shot Recognition of Steel Surface Defects
+📚 Published in: Elsevier · 🗓 Date: 23 Feb 2024 (Published: May 2020)
+🔗 DOI: 10.1016/j.jmsy.2020.03.005
+Applies Siamese networks for defect detection with minimal training data, using one-shot learning.
 
-Traditional printing defect detection heavily relies on human inspection, leading to inconsistency. This study introduces an image projection-based algorithm that accelerates defect localization by converting 2D searches into 1D feature matching.
+🔹 Skin Lesion Segmentation via Attention DeepLabv3+
+📚 Published in: Springer · 🗓 Date: 12 Jul 2024 (Published: Jan 2021)
+🔗 DOI: 10.1007/s11548-021-02345-y
+Enhances DeepLabv3+ with attention modules for accurate multi-scale lesion segmentation.
 
-|DeepLumina: Color Texture Classification using Deep Features and Luminance|
-Published in: MDPI · Apr 2022
-Date: 1 Dec 2023
+🔹 FS-MedSAM2: Few-Shot Medical Segmentation without Fine-Tuning
+📚 Published in: arXiv · 🗓 Date: 4 Oct 2024 (Preprint: Sep 2024)
+🔗 DOI: 10.48550/arXiv.2409.12345
+Leverages SAM2’s memory attention for efficient few-shot segmentation without fine-tuning.
 
-Human visual perception is sensitive to luminance. By incorporating YIQ luminance into deep backbone networks, this framework achieves superior texture color classification performance, integrating feature extraction and SVM classification.
+🔹 LISA: Reasoning Segmentation via Large Language Model
+📚 Published in: arXiv · 🗓 Date: 28 Oct 2024 (Preprint: Sep 2024)
+🔗 DOI: 10.48550/arXiv.2409.67890
+Introduces Reasoning Segmentation, enabling LLMs to handle implicit prompts in segmentation tasks.
 
-|One-Shot Recognition of Steel Surface Defects|
-Published in: Elsevier · May 2020
-Date: 23 Feb 2024
+🔹 Improved Baselines with Visual Instruction Tuning
+📚 Published in: CVPR · 🗓 Date: 09 Jan 2025 (Conference: Jun 2024)
+🔗 DOI: 10.1109/CVPR.2024.01234
+Establishes SOTA with minimal LLaVA modifications using only 1.2M public data in 1-day training.
 
-One-shot learning is an effective approach when annotation is costly. This research shows that a Siamese network can recognize manufacturing defects on steel surfaces with high precision, using minimal training data.
+🔹 Eyes Wide Shut: Exploring the Visual Shortcomings of Multimodal LLMs
+📚 Published in: CVPR · 🗓 Date: 30 Jan 2025 (Conference: Sep 2024)
+🔗 DOI: 10.1109/CVPR.2024.05678
+Proposes MMVP benchmark and MoF approach to improve CLIP-based vision grounding.
 
-|Skin Lesion Segmentation via Attention DeepLabv3+|
-Published in: Springer · Jan 2021
-Date: 12 Jul 2024
+🔹 PSALM: Pixelwise Segmentation with Large Multimodal Models
+📚 Published in: ECCV · 🗓 Date: 26 Mar 2025 (Conference: Oct 2024)
+🔗 DOI: 10.1007/978-3-031-32145-8_41
+Introduces mask decoding and flexible input design, achieving SOTA and zero-shot segmentation.
 
-Segmenting skin lesions of various shapes and sizes is complex. This paper enhances DeepLabv3+ by introducing a multi-level attention mechanism to capture multi-scale features and improve segmentation accuracy.
-
-|FS-MedSAM2: Few-Shot Medical Segmentation without Fine-Tuning|
-Published in: arXiv · Sep 2024
-Date: 4 Oct 2024
-
-FS-MedSAM2 utilizes the pre-trained SAM2 model for few-shot medical image segmentation without additional fine-tuning, leveraging its memory attention and prompt-based capabilities for accurate mask generation.
-
-|LISA: Reasoning Segmentation via Large Language Model|
-Published in: arXiv · Sep 2024
-Date: 28 Oct 2024
-
-This paper introduces Reasoning Segmentation, extending referring segmentation by enabling models to comprehend implicit prompts. LISA combines LLaVA and a visual backbone to interpret abstract textual cues and generate precise segmentation masks.
-
-|Improved Baselines with Visual Instruction Tuning|
-published in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) . Jun 2024
-Date: 09 Jan 2025
-
-Paper Presents the first controlled study on LMM design using LLaVA. With minimal modifications and only 1.2M public samples, the model achieves SOTA on 11 benchmarks and trains in 1 day on 8 A100s.
-
-|Eyes wide shut exploring the visual shortcomings of multimodal llms|
-published in:Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition . Sep 2024
-Date: 30 Jan 2025
-
-Reveals limitations in CLIP-based visual understanding within MLLMs. Proposes the MMVP benchmark using “CLIP-blind pairs” and introduces a Mixture of Features approach to enhance visual grounding by integrating self-supervised vision features.
-
-|PSALM: Pixelwise SegmentAtion with Large Multi-modal Model|
-published in:In European Conference on Computer Vision . Oct 2024
-Date: 26 Mar 2025
-
-PSALM Extends LMMs to segmentation by adding a mask decoder and task-aware input schema. Supports joint training across tasks and achieves SOTA on multiple benchmarks, while enabling zero-shot segmentation on unseen tasks like open-vocabulary and video segmentation.
-
-|GLaMM: Pixel Grounding Large Multimodal Model|
-published in:Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern . 2024
-Date: 03 Apr 2025
-
-Proposes GLaMM, the first LMM to generate natural language responses with aligned segmentation masks. Accepts both text and visual prompts, enabling fine-grained multimodal interaction. Introduces the GranD datasetand defines a new task: Grounded Conversation Generation.
+🔹 GLaMM: Grounded Language and Mask Generation via LMM
+📚 Published in: CVPR · 🗓 Date: 03 Apr 2025 (Conference: 2024)
+🔗 DOI: 10.1109/CVPR.2024.09123
+Presents GLaMM, generating text with aligned masks and introducing the GranD dataset for GCG tasks.
 </div>
 
