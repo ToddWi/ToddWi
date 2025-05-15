@@ -136,6 +136,13 @@ Proposes GLaMM, an LMM that generates text with aligned segmentation masks. Intr
 
 ---
 
+### 🔹 **PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought** 
+📚 *CVPR* · 🗓 2024 (Conference: 2024)  
+🔗 DOI: 10.1109/CVPR52733.2024.00671 
+📺 YouTube Presentation: [https://www.youtube.com/watch?v=WuEUi-2TXDU ](https://www.youtube.com/watch?v=UnOKN5HAqCc) 
+
+---
+
 📫 Contact
 💡 Always open to new opportunities, Thank you!
 
