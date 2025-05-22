@@ -37,7 +37,9 @@ Proposes an enhanced defect detection framework using Faster R-CNN for classific
 'HTML'   'CSS'   'Machine Learning'   'Deep Learning'
 
 ## 🙋‍♂️ Language Skills
-'Chinese'  'English'
+'Chinese' ★★★☆☆ 
+
+'English' ★★★★☆
 
 ## 🎓 Courses Taken
 
