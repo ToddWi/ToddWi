@@ -36,6 +36,8 @@ Proposes an enhanced defect detection framework using Faster R-CNN for classific
 'Python'   'Java'   'Javascript'   'Spring Boot'   'Tomcat'
 'HTML'   'CSS'   'Machine Learning'   'Deep Learning'
 
+## 🙋‍♂️ Language Skills
+'Chinese'  'English'
 
 ## 🎓 Courses Taken
 
@@ -143,8 +145,8 @@ Proposes GLaMM, an LMM that generates text with aligned segmentation masks. Intr
 
 ---
 
-🚀 Projects & Research Experience
-📌 [Capstone Design] Text-Image Segmentation for Logistics Systems using Multimodal LLM
+## 🚀 Projects & Research Experience
+### 📌 [Capstone Design] Text-Image Segmentation for Logistics Systems using Multimodal LLM
 기관: 교육부 / 한국연구재단
 기간: Sep 2024 – Dec 2024
 
@@ -156,25 +158,25 @@ Proposes GLaMM, an LMM that generates text with aligned segmentation masks. Intr
 
 특허 출원 1건, 소프트웨어 등록 1건, 국제 컨퍼런스 논문 제출 1건 성과 달성
 
-📌 ICT Challenge 2024
+### 📌 ICT Challenge 2024
 기관: 과학기술정보통신부 / 대학정보통신연구센터협의회
 기간: Aug 2024
 
 과제명: 딥러닝 기반의 시계열 이상탐지 알고리즘 설계 및 예지보전 시스템 구축
 
-📌 ICT 명품인재 창의자율과제
+### 📌 ICT 명품인재 창의자율과제
 기관: 과학기술정보통신부 / 대학정보통신연구센터협의회
 기간: Jun 2024 – Aug 2024
 
 과제명: 딥러닝 기반의 시계열 이상탐지 알고리즘 설계 및 예지보전 시스템 구축
 
-📌 중소기업 기술개발 지원사업
+### 📌 중소기업 기술개발 지원사업
 기관: 중소벤처기업부 / 경기도경제과학진흥원
 기간: Jul 2024 – Aug 2024
 
 과제명: 디지털 취약계층을 위한 AI 배리어프리 키오스크 기술 개발 (음성, 문자, 수어 등 멀티모달 지원)
 
-📌 [Capstone Design] Defect/Object Detection in Steel Manufacturing
+### 📌 [Capstone Design] Defect/Object Detection in Steel Manufacturing
 기관: 교육부 / 한국연구재단
 기간: Mar 2024 – Jun 2024
 
@@ -184,49 +186,49 @@ ResNet, Faster R-CNN 기반 철강 제품 결함 및 객체 탐지 모델 구현
 
 특허 출원 수행
 
-📌 경기도 기술개발사업
+### 📌 경기도 기술개발사업
 기관: 중소벤처기업부 / 경기도경제과학진흥원
 기간: Jun 2024
 
 과제명: 반도체 웨이퍼 엣지 AI 딥러닝 고속 검사 시스템 개발
 
-📌 대학ICT연구센터사업
+### 📌 대학ICT연구센터사업
 기관: 과학기술정보통신부 / 정보통신연구센터협의회
 기간: Apr 2024
 
 과제명: 산업특화형 On-Premise AI 자율제조 플랫폼 기술연구
 
-📌 협력·융합 R&D 과제
+### 📌 협력·융합 R&D 과제
 기관: 산업통상자원부 / 한국산업기술진흥협회
 기간: Apr 2024
 
 과제명: AI 기반 실시간 최적경로 탐색 및 배차 MaaS 플랫폼 개발
 
-📌 중소기업기술혁신개발사업 (시장대응형)
+### 📌 중소기업기술혁신개발사업 (시장대응형)
 기관: 중소벤처기업부 / 중소기업기술정보진흥원
 기간: Mar 2024
 
 과제명: 휠체어 이용자를 위한 AI 비접촉식 교통요금 결제 기술 개발
 
-📌 중소기업 연구인력 현장맞춤형 양성지원사업
+### 📌 중소기업 연구인력 현장맞춤형 양성지원사업
 기관: 중소벤처기업부 / 중소기업기술정보진흥원
 기간: Jan 2024 – Feb 2024
 
 과제명: 연구인력혁신센터(R&D Brain Care Center)
 
-📌 과학기술분야 기초연구사업 (중견연구)
+### 📌 과학기술분야 기초연구사업 (중견연구)
 기관: 과학기술정보통신부 / 한국연구재단
 기간: Oct 2023 – Jan 2024
 
 과제명: 엣지-클라우드 기반 생성형 제조 AI 플랫폼 연구개발
 
-📌 소개팅 프로그램 ‘취밋’ 웹 개발
+### 📌 소개팅 프로그램 ‘취밋’ 웹 개발
 기관: 아이티윌
 기간: Apr 2023 – Jun 2023
 
 Java, SpringBoot 기반으로 회원가입, 프로필 매칭, 관리자 기능 등을 포함한 소개팅 웹 서비스 개발 참여
 
-📌 전통주 경매 사이트 개발
+### 📌 전통주 경매 사이트 개발
 기관: 아이티윌
 기간: Mar 2023 – Apr 2023
 
