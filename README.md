@@ -149,12 +149,12 @@ Proposes GLaMM, an LMM that generates text with aligned segmentation masks. Intr
 
 ## 🚀 Projects & Research Experience
 ### 📌 [Project] Text-Image Segmentation for Logistics Systems using Multimodal LLM
-#### 기관: 교육부 / 한국연구재단
-#### 기간: Sep 2024 – Dec 2024
+ 기관: 교육부 / 한국연구재단
+ 기간: Sep 2024 – Dec 2024
 
 ### 📌 ICT Challenge 2024
-#### 기관: 과학기술정보통신부 / 대학정보통신연구센터협의회
-#### 기간: Aug 2024
+ 기관: 과학기술정보통신부 / 대학정보통신연구센터협의회
+ 기간: Aug 2024
 
 #### 과제명: 딥러닝 기반의 시계열 이상탐지 알고리즘 설계 및 예지보전 시스템 구축
 
